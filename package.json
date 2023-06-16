@@ -1,6 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
+  "homepage": "https://it-lilya.github.io/diplom-copy/",
   "private": true,
   "dependencies": {
     "@babel/preset-react": "^7.22.5",
